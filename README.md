@@ -1,3 +1,3 @@
-$ python manage.py runserver *Open website in the browser*
+$ python manage.py runserver 
 
 --> go to localhost:8000/ to check it
